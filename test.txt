@@ -13,3 +13,5 @@ masteredit
 pullreqtest
 pullreqtest
 >>>>>>> pullreqtest
+
+edit @ branch3
