@@ -5,4 +5,11 @@
 
 testtest
 
+<<<<<<< HEAD
 masteredit
+=======
+masteredit
+
+pullreqtest
+pullreqtest
+>>>>>>> pullreqtest
